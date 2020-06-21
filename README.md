@@ -1,6 +1,6 @@
 # Analysis of Neural Networks. Applications to Interpretability and Uncertainty | Code
 <br/>
-
+<span style="color:red">Disclaimer: Permission for liberating the code is needed from the company to make it public. Until the request is not accepted, the author will not be able to add the code to this repository. </span><br/><br/>
 This repository contains the code implemented for the Final Project ```Analysis of Neural Networks. Applications to Interpretability and Uncertainty```. The code has been written in ```Python``` and is divided in different ```Jupyter Notebooks```.
 
 ### Requirements
