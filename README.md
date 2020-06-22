@@ -23,3 +23,6 @@ Here is the list of notebooks containing the code:
 
 ### Images
 The images folder contains the original plots and gifs from the project.
+
+<br/>
+Credit for the orca image: Kenneth Balcomb, Center for Whale Research.
