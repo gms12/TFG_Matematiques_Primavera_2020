@@ -24,6 +24,8 @@ Here is the list of notebooks containing the code:
 
 ### Images
 The images folder contains the original plots and gifs from the project.
+<br/>
+Credit for the orca image: Kenneth Balcomb, Center for Whale Research.
 
 ### Dashboard
 The Dashboard has been created using the [Dash by Plotly](https://github.com/plotly/dash) library. In order to use it, type the following command:
@@ -32,6 +34,3 @@ python -m dashboard
 ```
 Then, open the corresponding address in any web browser.
 
-
-<br/>
-Credit for the orca image: Kenneth Balcomb, Center for Whale Research.
