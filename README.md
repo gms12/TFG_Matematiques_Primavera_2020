@@ -1,7 +1,8 @@
 # Analysis of Neural Networks. Applications to Interpretability and Uncertainty | Code
 <br/>
 
-This repository contains the code implemented for the Final Project ```Analysis of Neural Networks. Applications to Interpretability and Uncertainty```. The code has been written in ```Python``` and is divided in different ```Jupyter Notebooks```.
+This repository contains the code implemented for the Final Project ```Analysis of Neural Networks. Applications to Interpretability and Uncertainty```. The code has been written in ```Python``` and is divided in different ```Jupyter Notebooks```. In addition, a dashboard for latent space exploration for the time series is available.
+Finally, the memory and the presentations of the work can be found in the repository.
 
 ### Requirements
 This repository contains a file named ```environment.yml``` with the ```tfg``` environment, which includes all required packages:
@@ -23,6 +24,14 @@ Here is the list of notebooks containing the code:
 
 ### Images
 The images folder contains the original plots and gifs from the project.
+
+### Dashboard
+The Dashboard has been created using the [Dash by Plotly](https://github.com/plotly/dash) library. In order to use it, type the following command:
+```bash
+python -m dashboard
+```
+Then, open the corresponding address in any web browser.
+
 
 <br/>
 Credit for the orca image: Kenneth Balcomb, Center for Whale Research.
